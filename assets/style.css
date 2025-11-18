@@ -9,7 +9,7 @@ body {
 }
 
 #container {
-    width: 800px;
+    width: 1200px;
     margin: 0 auto;
 }
 
@@ -84,28 +84,28 @@ body.fotos #nav a#fotos
 }
 
 #side {
-    width: 180px;
+    width: 270px;
     float: left;
-    margin: 0 0 20px -800px;
+    margin: 0 0 30px -1200px;
 }
 
 #primary {
-    width: 290px;
+    width: 450px;
     float: left;
-    margin: 0 0 20px 200px;
+    margin: 0 0 20px 285px;
 }
 
 #two-columns #primary {
-    width: 595px;
+    width: 915px;
 }
 
 #one-column #primary {
-    width: 800px;
+    width: 1200px;
     margin: 0 0 20px 0;
 }
 
 #secondary {
-    width: 290px;
+    width: 450px;
     float: left;
     margin: 0 0 20px 15px;
 }
