@@ -1,1 +1,1 @@
-Veja esse projeto na web: https://lochaydeoliveira.github.io/portal-de-noticiais-projeto-4/
+- Veja esse projeto na web: 👉<a href="https://lochaydeoliveira.github.io/portal-de-noticiais-projeto-4/" target="_blank">Notícias Cidade - Projeto 4</a>
